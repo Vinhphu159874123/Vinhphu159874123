@@ -16,3 +16,12 @@ Always eager to learn deeply and build useful systems.
 * **Tutor Support System** – Full-stack tutoring platform with FastAPI, React, Redis, and Supabase
 * **BKinema** – Cinema booking system with transactional relational backend using MySQL and NestJS
 * **Vehicle Tracker** – Real-time vehicle counting pipeline using YOLOv8, ByteTrack, and OpenCV
+## Tech Stack
+
+| Category  | Technologies                  |
+| --------- | ----------------------------- |
+| Languages | Python, JavaScript, SQL, Java |
+| Backend   | FastAPI, Flask, REST APIs     |
+| Frontend  | React, Tailwind CSS           |
+| Databases | PostgreSQL, MySQL, Supabase   |
+| Tools     | Docker, Redis, Nginx, Git     |
