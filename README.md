@@ -11,11 +11,6 @@ Always eager to learn deeply and build useful systems.
 * Database design
 * Practical computer vision projects
 
-## Featured Projects
-
-* **Tutor Support System** – Full-stack tutoring platform with FastAPI, React, Redis, and Supabase
-* **BKinema** – Cinema booking system with transactional relational backend using MySQL and NestJS
-* **Vehicle Tracker** – Real-time vehicle counting pipeline using YOLOv8, ByteTrack, and OpenCV
 ## Tech Stack
 
 | Category  | Technologies                  |
@@ -25,3 +20,10 @@ Always eager to learn deeply and build useful systems.
 | Frontend  | React, Tailwind CSS           |
 | Databases | PostgreSQL, MySQL, Supabase   |
 | Tools     | Docker, Redis, Nginx, Git     |
+
+
+## Featured Projects
+
+* **Tutor Support System** – Full-stack tutoring platform with FastAPI, React, Redis, and Supabase
+* **BKinema** – Cinema booking system with transactional relational backend using MySQL and NestJS
+* **Vehicle Tracker** – Real-time vehicle counting pipeline using YOLOv8, ByteTrack, and OpenCV
