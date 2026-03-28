@@ -20,7 +20,7 @@ Always eager to learn deeply and build useful systems.
 
 | Category  | Technologies                  |
 | --------- | ----------------------------- |
-| Languages | Python, JavaScript, SQL, Java |
+| Languages | Python, JavaScript, SQL, Java, C++ |
 | Backend   | FastAPI, Flask, REST APIs     |
 | Frontend  | React, Tailwind CSS           |
 | Databases | PostgreSQL, MySQL, Supabase   |
