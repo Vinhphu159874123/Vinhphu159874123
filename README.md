@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vinh Phu 👋
 
-<!--
-**Vinhphu159874123/Vinhphu159874123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at HCMUT (GPA 3.8/4) with hands-on experience in full-stack development using Python, React, and relational databases.
+Interested in backend systems, scalable APIs, and practical software engineering.
+Always eager to learn deeply and build useful systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Full-stack development
+* Backend engineering
+* Database design
+* Practical computer vision projects
+
+## Featured Projects
+
+* **Tutor Support System** – Full-stack tutoring platform with FastAPI, React, Redis, and Supabase
+* **BKinema** – Cinema booking system with transactional relational backend using MySQL and NestJS
+* **Vehicle Tracker** – Real-time vehicle counting pipeline using YOLOv8, ByteTrack, and OpenCV
